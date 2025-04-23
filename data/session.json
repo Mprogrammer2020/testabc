@@ -1,0 +1,32 @@
+{
+    "org_id": "Org#b2bc7c64-6a1c-4984-aa00-ec26ed97f82e",
+    "role_id": "Role#014bc034-7e80-4876-acc2-583b79f4e66d",
+    "expiration": 1747467353,
+    "purpose": "cs v0.100.0+e1a99c386",
+    "token": "3d6fd7397:ZTgxOWUyODktYmVlZS00OTc4LTlmYmEtOTcxYmQ5MDJlYzk3.eyJlcG9jaF9udW0iOjMsImVwb2NoX3Rva2VuIjoia3BGTkdFL2ZFNUVOajJxV3dyc09xMWZJNFhKcW1yb0poRXJqc2NJWnBsQT0iLCJvdGhlcl90b2tlbiI6InZHbGJ0bmdYT05qNzdMWm55L2JmZXc3em1yckxibEE1YW01YjlqQzVnL2s9In0=",
+    "refresh_token": "3d6fd7397:ZTgxOWUyODktYmVlZS00OTc4LTlmYmEtOTcxYmQ5MDJlYzk3.eyJlcG9jaF9udW0iOjMsImVwb2NoX3Rva2VuIjoia3BGTkdFL2ZFNUVOajJxV3dyc09xMWZJNFhKcW1yb0poRXJqc2NJWnBsQT0iLCJvdGhlcl90b2tlbiI6InZHbGJ0bmdYT05qNzdMWm55L2JmZXc3em1yckxibEE1YW01YjlqQzVnL2s9In0=.PUAYEb5DtFJjJncqPrVjA/L4owoCOvLpvirx64VQL/4=",
+    "env": {
+        "Dev-CubeSignerStack": {
+            "ClientId": "1tiou9ecj058khiidmhj4ds4rj",
+            "CognitoIssuerUrl": null,
+            "GoogleDeviceClientId": "59575607964-nc9hjnjka7jlb838jmg40qes4dtpsm6e.apps.googleusercontent.com",
+            "GoogleDeviceClientSecret": "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",
+            "Region": "us-east-1",
+            "UserPoolId": "us-east-1_RU7HEslOW",
+            "SignerApiRoot": "https://gamma.signer.cubist.dev",
+            "DefaultCredentialRpId": "cubist.dev",
+            "EncExportS3BucketName": null,
+            "DeletedKeysS3BucketName": null
+        }
+    },
+    "session_info": {
+        "session_id": "e819e289-beee-4978-9fba-971bd902ec97",
+        "auth_token": "vGlbtngXONj77LZny/bfew7zmrrLblA5am5b9jC5g/k=",
+        "refresh_token": "PUAYEb5DtFJjJncqPrVjA/L4owoCOvLpvirx64VQL/4=",
+        "epoch": 3,
+        "epoch_token": "kpFNGE/fE5ENj2qWwrsOq1fI4XJqmroJhErjscIZplA=",
+        "auth_token_exp": 1745394180,
+        "refresh_token_exp": 1747899780
+    },
+    "lastRefreshed": "2025-04-17T07:37:18.349Z"
+}
